@@ -1,6 +1,6 @@
 version : "3.3"
 services :
 web : 
-  imgage : pratik2009/my-react-app:latest
+  image : pratik2009/my-react-app:latest
   ports : 
       - "3000:3000"
